@@ -19,3 +19,6 @@ After downloading the zip, you need to do the following steps
 
 8.php artisan serve
 
+9.Manager
+        Email - manager@gmail.com
+        Password - manager
